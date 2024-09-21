@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">practice6</string>
+    <string name="mensaje_vac">Elija su lugar de vacaciones</string>
+    <string name="spinnernormal">Spinner clasico</string>
+    <string name="spinnercustom">Spinner custom</string>
+
+    <string-array name="countries">
+        <item>seleccione un pais</item>
+        <item>Australia</item>
+        <item>China</item>
+        <item>India</item>
+        <item>UK</item>
+        <item>USA</item>
+
+    </string-array>
+
+
+</resources>
